@@ -1,5 +1,5 @@
 {
-  "name": "@aws/dynamodb-data-marshaller",
+  "name": "@spreen/dynamodb-data-marshaller",
   "version": "0.7.3",
   "description": "A schema-based data marshaller for Amazon DynamoDB",
   "keywords": [
