@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-data-mapper-js",
-  "private": true,
+  "private": false,
   "scripts": {
     "lerna": "lerna",
     "bootstrap": "lerna bootstrap",
@@ -29,6 +29,9 @@
   ],
   "jest": {
     "testEnvironment": "node",
-    "testPathIgnorePatterns": ["/node_modules/", ".ts"]
+    "testPathIgnorePatterns": [
+      "/node_modules/",
+      ".ts"
+    ]
   }
 }
