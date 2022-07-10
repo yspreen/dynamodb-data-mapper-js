@@ -1,6 +1,6 @@
 {
   "name": "@spreen/dynamodb-data-mapper",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "A schema-based data mapper for Amazon DynamoDB",
   "keywords": [
     "aws",

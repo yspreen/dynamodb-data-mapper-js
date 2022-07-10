@@ -1,6 +1,6 @@
 {
   "name": "@spreen/dynamodb-expressions",
-  "version": "0.7.3",
+  "version": "0.8.1",
   "description": "Composable expression objects for Amazon DynamoDB",
   "keywords": [
     "aws",
